@@ -1,6 +1,8 @@
 # Courtroom_Simulator
 ## THE VERDICT
 
+🔴 **Live Demo:** [https://the-verdict-eta.vercel.app](https://the-verdict-eta.vercel.app)
+
 Problem statement: 
 
 In July 2024, India rewrote its criminal law: IPC became BNS, CrPC became BNSS, the Evidence Act became BSA. But the way law students learn to argue hasn't changed: read the bare act, memorize the section, write the memorial. Nobody trains them to hold a position while a judge tries to take it apart, and by the time a real verdict comes, it's too late to learn from it.
